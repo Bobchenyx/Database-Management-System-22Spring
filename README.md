@@ -2,7 +2,7 @@
 
 Northeastern University CS 5200
 
-Taught by Professor Kathleen Durant
+Taught by Professor Durant
 
 The course presents the database design process practiced when creating a relational database; 
 it also presents the relational database management system’s architecture as well as the fundamental ACID properties of a relational database management system. 
